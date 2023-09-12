@@ -1,0 +1,22 @@
+.encabezado{
+    background-color: cadetblue;
+    position: relative;
+    height: 80px;
+}
+.imagen-usuario{
+    padding: 2px;
+    border-radius: 50% ;
+    border-image: 5px solid red;
+    width: 80px;
+    position: absolute;
+    top: 40px;
+    left: 15px;
+
+}
+.cuerpo{
+  padding: 30px 15px;
+  border: 2px solid black;
+}
+.iconos{
+    width: 13px;
+}
